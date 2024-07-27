@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tommy Sylver
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python and Django as a backend
+- 👀 I’m interested in web development and design
+- 🌱 I enjoy learning new things and staying updated with the latest technologies.
 - 📫 How to reach me... well the best way is on facebook: Tommy Sylver
 
 <!---
