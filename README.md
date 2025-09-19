@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tommy Sylver
 
-💻 **Web Developer** | 🌍 Based in Madagascar 🇲🇬  
+Software Engineer
 🎓 Student @ BYU–Idaho (Applied Technology)  
 🚀 Passionate about building scalable web apps and intuitive user experiences  
 🤝 Open Source & Collaboration Enthusiast  
@@ -13,11 +13,6 @@
 - **Backend:** Node.js, .NET, Express, REST APIs, JWT  
 - **Databases:** MongoDB, PostgreSQL, SQL  
 - **Other:** Prisma, Vite.js, Framer Motion  
-
----
-
-### 📊 GitHub Stats
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommySylver&show_icons=true&theme=radical)
 
 ---
 
