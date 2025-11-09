@@ -35,6 +35,6 @@
 ### 📫 Ping Me
 - [Facebook](https://facebook.com/TommySylver)  
 - [LinkedIn](www.linkedin.com/in/tommy-sylver-3796021a9)
-- [tommysylver18@example.com](mailto:tommysylver18@example.com)  
+- [tommysylver18@gmail.com](mailto:tommysylver18@gmail.com)  
 
 ---
