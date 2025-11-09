@@ -33,8 +33,8 @@
 ---
 
 ### 📫 Ping Me
-- Facebook: [Tommy Sylver](https://facebook.com/TommySylver)  
-- LinkedIn: [Tommy Sylver Razananaivo](www.linkedin.com/in/tommy-sylver-3796021a9)
-- Email: tommysylver18@example.com  
+- [Facebook](https://facebook.com/TommySylver)  
+- [LinkedIn](www.linkedin.com/in/tommy-sylver-3796021a9)
+- [tommysylver18@example.com](mailto:tommysylver18@example.com)  
 
 ---
