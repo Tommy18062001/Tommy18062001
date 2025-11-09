@@ -28,13 +28,13 @@
 ---
 
 ### 💡 Motto
-> *"The best way to learn is by building."*  
+> *"I hate doing the same thing twice."*  
 
 ---
 
-### 📫 Connect with Me
+### 📫 Ping Me
 - Facebook: [Tommy Sylver](https://facebook.com/TommySylver)  
-- LinkedIn: [Tommy Sylver Razananaivo](https://linkedin.com/in/...) _(add your link)_  
-- Email: your-email@example.com  
+- LinkedIn: [Tommy Sylver Razananaivo](www.linkedin.com/in/tommy-sylver-3796021a9)
+- Email: tommysylver18@example.com  
 
 ---
