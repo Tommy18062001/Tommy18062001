@@ -1,10 +1,10 @@
 # Hi, I'm Tommy Sylver
 
 ### Software Engineer
-🎓 Student @ BYU–Idaho (Applied Technology)  
-🚀 Passionate about building scalable web apps and intuitive user experiences  
-🤝 Open Source & Collaboration Enthusiast  
-📚 Always learning, improving, and sharing knowledge  
+- Student @ BYU–Idaho (Applied Technology)  
+- Passionate about building tools for people
+- Open Source & Collaboration Enthusiast  
+- Always learning, improving, and sharing knowledge  
 
 ---
 
