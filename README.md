@@ -30,8 +30,16 @@
 
 ---
 
-### 📫 Let’s Connect
+### 📅 Book a Chat
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/TommySylver)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommy-sylver-3796021a9)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommysylver18@gmail.com)
+Want to chat ideas, collaborate, or just say hi? Book a time that works for you.
+
+<p>
+  <a href="https://cal.com/tommy-sylver-znbwz1/30min">
+    <img
+      src="https://img.shields.io/badge/Book%20a%2030--minute%20chat-4B5563?style=flat&amp;logo=cal.com&amp;logoColor=white"
+      alt="Book a 30-minute chat on Cal.com"
+      height="46"
+    />
+  </a>
+</p>
