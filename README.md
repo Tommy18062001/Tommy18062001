@@ -38,7 +38,7 @@ Want to chat ideas, collaborate, or just say hi? Book a time that works for you.
   <a href="https://cal.com/tommy-sylver-znbwz1/30min">
     <img
       src="https://img.shields.io/badge/Book%20a%2030--minute%20chat-4B5563?style=flat&amp;logo=cal.com&amp;logoColor=white"
-      alt="Book a 30-minute chat on Cal.com"
+      alt="Let s chat on Cal.com"
       height="46"
     />
   </a>
